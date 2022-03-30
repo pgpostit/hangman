@@ -1,5 +1,5 @@
 # Hangman
- A simple game of hangman using only Python's internal libraries.  In the next update it will support word classes and hints.
+ A simple hangman game using only Python's internal libraries.  In the next update it will support word classes and hints.
  
 ## Installation
 This program just requires Python 3. 
